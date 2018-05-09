@@ -1,0 +1,2 @@
+# gusion
+gusion discord bot
